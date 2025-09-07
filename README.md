@@ -1,1 +1,1 @@
-# Prediction Model for Obesisty Classification
+# Prediction Model for Obesity Classification
